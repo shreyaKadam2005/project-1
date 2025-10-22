@@ -3,8 +3,6 @@
 <br>
 <ls>
 converts audio into text
-<br>
 highlights medical entities
-<br>
 suggest medicines and prescription
 </ls>
